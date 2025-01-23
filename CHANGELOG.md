@@ -1,4 +1,4 @@
-# Changelog v0.0.1 - Initial Release 🚀
+# Changelog v1.0.0 - Initial Release 🚀
 
 **RevealText** - A Flutter package for elegant text reveal animations
 

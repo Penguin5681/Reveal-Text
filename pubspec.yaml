@@ -1,6 +1,6 @@
 name: reveal_text
 description: "Flutter widget for smooth text animations: reveal by words/letters with fade & translate effects. Optional letter spacing"
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/Penguin5681/Reveal-Text
 
 environment:
